@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+/home/tux/bambou/wifitriangulation-read-only/src/.metadata/.plugins/org.eclipse.jdt.core

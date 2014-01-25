@@ -1,0 +1,341 @@
+wlan0     Scan completed :
+          Cell 01 - Address: 00:27:0D:2F:A5:00
+                    Channel:6
+                    Frequency:2.437 GHz (Channel 6)
+                    Quality=39/70  Signal level=-71 dBm  
+                    Encryption key:on
+                    ESSID:"eduroam"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 6 Mb/s; 9 Mb/s
+                              11 Mb/s; 12 Mb/s; 18 Mb/s
+                    Bit Rates:24 Mb/s; 36 Mb/s; 48 Mb/s; 54 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000004b1e75ec8e
+                    Extra: Last beacon: 560ms ago
+                    IE: Unknown: 0007656475726F616D
+                    IE: Unknown: 010882848B0C12961824
+                    IE: Unknown: 030106
+                    IE: Unknown: 0706465220010D14
+                    IE: Unknown: 0B050400148D5B
+                    IE: Unknown: 2A0100
+                    IE: Unknown: 2D1A2C181BFFFF000000000000000000000000000000000000000000
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : TKIP
+                        Pairwise Ciphers (2) : TKIP CCMP
+                        Authentication Suites (1) : 802.1x
+                    IE: Unknown: 32043048606C
+                    IE: Unknown: 3D1606000F00000000000000000000000000000000000000
+                    IE: Unknown: 851E09008F000F00FF0359006D696D2D61703900000000000000000004000036
+                    IE: Unknown: 9606004096001100
+                    IE: WPA Version 1
+                        Group Cipher : TKIP
+                        Pairwise Ciphers (2) : TKIP CCMP
+                        Authentication Suites (1) : 802.1x
+                    IE: Unknown: DD180050F2020101800003A4000027A4000042435E0062322F00
+                    IE: Unknown: DD06004096010104
+                    IE: Unknown: DD050040960305
+                    IE: Unknown: DD050040960B09
+                    IE: Unknown: DD050040961400
+          Cell 02 - Address: 00:27:0D:2F:A5:02
+                    Channel:6
+                    Frequency:2.437 GHz (Channel 6)
+                    Quality=38/70  Signal level=-72 dBm  
+                    Encryption key:off
+                    ESSID:"Universite de Lorraine"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 6 Mb/s; 9 Mb/s
+                              11 Mb/s; 12 Mb/s; 18 Mb/s
+                    Bit Rates:24 Mb/s; 36 Mb/s; 48 Mb/s; 54 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000004b1e7597cf
+                    Extra: Last beacon: 572ms ago
+                    IE: Unknown: 0016556E6976657273697465206465204C6F727261696E65
+                    IE: Unknown: 010882848B0C12961824
+                    IE: Unknown: 030106
+                    IE: Unknown: 0706465220010D14
+                    IE: Unknown: 2A0100
+                    IE: Unknown: 32043048606C
+                    IE: Unknown: 851E09008F000F00FF0359006D696D2D61703900000000000000000004000036
+                    IE: Unknown: 9606004096001100
+                    IE: Unknown: DD06004096010104
+                    IE: Unknown: DD050040960305
+                    IE: Unknown: DD050040960B09
+                    IE: Unknown: DD050040961400
+          Cell 03 - Address: 00:27:0D:2F:A5:01
+                    Channel:6
+                    Frequency:2.437 GHz (Channel 6)
+                    Quality=35/70  Signal level=-75 dBm  
+                    Encryption key:on
+                    ESSID:"Personnels Univ-Lorraine"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 6 Mb/s; 9 Mb/s
+                              11 Mb/s; 12 Mb/s; 18 Mb/s
+                    Bit Rates:24 Mb/s; 36 Mb/s; 48 Mb/s; 54 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000004b1e753f2b
+                    Extra: Last beacon: 572ms ago
+                    IE: Unknown: 0018506572736F6E6E656C7320556E69762D4C6F727261696E65
+                    IE: Unknown: 010882848B0C12961824
+                    IE: Unknown: 030106
+                    IE: Unknown: 0706465220010D14
+                    IE: Unknown: 2A0100
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : 802.1x
+                    IE: Unknown: 32043048606C
+                    IE: Unknown: 851E09008F000F00FF0359006D696D2D61703900000000000000000004000036
+                    IE: Unknown: 9606004096001100
+                    IE: Unknown: DD06004096010104
+                    IE: Unknown: DD050040960305
+                    IE: Unknown: DD050040960B09
+                    IE: Unknown: DD050040961400
+          Cell 04 - Address: 00:27:0D:30:14:70
+                    Channel:1
+                    Frequency:2.412 GHz (Channel 1)
+                    Quality=31/70  Signal level=-79 dBm  
+                    Encryption key:on
+                    ESSID:"eduroam"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 6 Mb/s; 9 Mb/s
+                              11 Mb/s; 12 Mb/s; 18 Mb/s
+                    Bit Rates:24 Mb/s; 36 Mb/s; 48 Mb/s; 54 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000004b1e6b9b34
+                    Extra: Last beacon: 856ms ago
+                    IE: Unknown: 0007656475726F616D
+                    IE: Unknown: 010882848B0C12961824
+                    IE: Unknown: 030101
+                    IE: Unknown: 0706465220010D14
+                    IE: Unknown: 0B050100148D5B
+                    IE: Unknown: 2A0100
+                    IE: Unknown: 2D1A2C181BFFFF000000000000000000000000000000000000000000
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : TKIP
+                        Pairwise Ciphers (2) : TKIP CCMP
+                        Authentication Suites (1) : 802.1x
+                    IE: Unknown: 32043048606C
+                    IE: Unknown: 3D1601000700000000000000000000000000000000000000
+                    IE: Unknown: 851E07008F000F00FF0359006D696D2D61703130000000000000000001000036
+                    IE: Unknown: 9606004096001100
+                    IE: WPA Version 1
+                        Group Cipher : TKIP
+                        Pairwise Ciphers (2) : TKIP CCMP
+                        Authentication Suites (1) : 802.1x
+                    IE: Unknown: DD180050F2020101800003A4000027A4000042435E0062322F00
+                    IE: Unknown: DD06004096010104
+                    IE: Unknown: DD050040960305
+                    IE: Unknown: DD050040960B09
+                    IE: Unknown: DD050040961400
+          Cell 05 - Address: 00:1C:B1:89:F7:F1
+                    Channel:11
+                    Frequency:2.462 GHz (Channel 11)
+                    Quality=34/70  Signal level=-76 dBm  
+                    Encryption key:on
+                    ESSID:"Personnels Univ-Lorraine"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 6 Mb/s; 9 Mb/s
+                              11 Mb/s; 12 Mb/s; 18 Mb/s
+                    Bit Rates:24 Mb/s; 36 Mb/s; 48 Mb/s; 54 Mb/s
+                    Mode:Master
+                    Extra:tsf=00000010f4521498
+                    Extra: Last beacon: 280ms ago
+                    IE: Unknown: 0018506572736F6E6E656C7320556E69762D4C6F727261696E65
+                    IE: Unknown: 010882848B0C12961824
+                    IE: Unknown: 03010B
+                    IE: Unknown: 0706465220010D14
+                    IE: Unknown: 2A0100
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : 802.1x
+                    IE: Unknown: 32043048606C
+                    IE: Unknown: 851E06008F000F00FF0359006D696D2D61703400000000000000000003000027
+                    IE: Unknown: 9606004096000E00
+                    IE: Unknown: DD06004096010104
+                    IE: Unknown: DD050040960305
+                    IE: Unknown: DD050040960B09
+                    IE: Unknown: DD050040961400
+          Cell 06 - Address: 00:1C:B1:89:F7:F0
+                    Channel:11
+                    Frequency:2.462 GHz (Channel 11)
+                    Quality=32/70  Signal level=-78 dBm  
+                    Encryption key:on
+                    ESSID:"eduroam"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 6 Mb/s; 9 Mb/s
+                              11 Mb/s; 12 Mb/s; 18 Mb/s
+                    Bit Rates:24 Mb/s; 36 Mb/s; 48 Mb/s; 54 Mb/s
+                    Mode:Master
+                    Extra:tsf=00000010f7318247
+                    Extra: Last beacon: 232ms ago
+                    IE: Unknown: 0007656475726F616D
+                    IE: Unknown: 010882848B0C12961824
+                    IE: Unknown: 03010B
+                    IE: Unknown: 0706465220010D14
+                    IE: Unknown: 0B0503000B8D5B
+                    IE: Unknown: 2A0100
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : TKIP
+                        Pairwise Ciphers (2) : TKIP CCMP
+                        Authentication Suites (1) : 802.1x
+                    IE: Unknown: 32043048606C
+                    IE: Unknown: 851E06008F000F00FF0359006D696D2D61703400000000000000000003000027
+                    IE: Unknown: 9606004096000E00
+                    IE: WPA Version 1
+                        Group Cipher : TKIP
+                        Pairwise Ciphers (2) : TKIP CCMP
+                        Authentication Suites (1) : 802.1x
+                    IE: Unknown: DD180050F2020101800003A4000027A4000042435E0062322F00
+                    IE: Unknown: DD06004096010104
+                    IE: Unknown: DD050040960305
+                    IE: Unknown: DD050040960B09
+                    IE: Unknown: DD050040961400
+          Cell 07 - Address: 00:1C:B1:89:F7:F2
+                    Channel:11
+                    Frequency:2.462 GHz (Channel 11)
+                    Quality=33/70  Signal level=-77 dBm  
+                    Encryption key:off
+                    ESSID:"Universite de Lorraine"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 6 Mb/s; 9 Mb/s
+                              11 Mb/s; 12 Mb/s; 18 Mb/s
+                    Bit Rates:24 Mb/s; 36 Mb/s; 48 Mb/s; 54 Mb/s
+                    Mode:Master
+                    Extra:tsf=00000010f731fc0d
+                    Extra: Last beacon: 256ms ago
+                    IE: Unknown: 0016556E6976657273697465206465204C6F727261696E65
+                    IE: Unknown: 010882848B0C12961824
+                    IE: Unknown: 03010B
+                    IE: Unknown: 0706465220010D14
+                    IE: Unknown: 2A0100
+                    IE: Unknown: 32043048606C
+                    IE: Unknown: 851E06008F000F00FF0359006D696D2D61703400000000000000000003000027
+                    IE: Unknown: 9606004096000E00
+                    IE: Unknown: DD06004096010104
+                    IE: Unknown: DD050040960305
+                    IE: Unknown: DD050040960B09
+                    IE: Unknown: DD050040961400
+          Cell 08 - Address: 00:27:0D:30:14:72
+                    Channel:1
+                    Frequency:2.412 GHz (Channel 1)
+                    Quality=34/70  Signal level=-76 dBm  
+                    Encryption key:off
+                    ESSID:"Universite de Lorraine"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 6 Mb/s; 9 Mb/s
+                              11 Mb/s; 12 Mb/s; 18 Mb/s
+                    Bit Rates:24 Mb/s; 36 Mb/s; 48 Mb/s; 54 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000004b1e6b46cb
+                    Extra: Last beacon: 852ms ago
+                    IE: Unknown: 0016556E6976657273697465206465204C6F727261696E65
+                    IE: Unknown: 010882848B0C12961824
+                    IE: Unknown: 030101
+                    IE: Unknown: 0706465220010D14
+                    IE: Unknown: 2A0100
+                    IE: Unknown: 32043048606C
+                    IE: Unknown: 851E07008F000F00FF0359006D696D2D61703130000000000000000001000036
+                    IE: Unknown: 9606004096001100
+                    IE: Unknown: DD06004096010104
+                    IE: Unknown: DD050040960305
+                    IE: Unknown: DD050040960B09
+                    IE: Unknown: DD050040961400
+          Cell 09 - Address: 00:1C:B1:89:BB:92
+                    Channel:1
+                    Frequency:2.412 GHz (Channel 1)
+                    Quality=25/70  Signal level=-85 dBm  
+                    Encryption key:off
+                    ESSID:"Universite de Lorraine"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 6 Mb/s; 9 Mb/s
+                              11 Mb/s; 12 Mb/s; 18 Mb/s
+                    Bit Rates:24 Mb/s; 36 Mb/s; 48 Mb/s; 54 Mb/s
+                    Mode:Master
+                    Extra:tsf=00000010f73b6f6a
+                    Extra: Last beacon: 904ms ago
+                    IE: Unknown: 0016556E6976657273697465206465204C6F727261696E65
+                    IE: Unknown: 010882848B0C12961824
+                    IE: Unknown: 030101
+                    IE: Unknown: 0706465220010D14
+                    IE: Unknown: 2A0100
+                    IE: Unknown: 32043048606C
+                    IE: Unknown: 851E03008F000F00FF0359006D696D2D61703200000000000000000000000027
+                    IE: Unknown: 9606004096001100
+                    IE: Unknown: DD06004096010104
+                    IE: Unknown: DD050040960305
+                    IE: Unknown: DD050040960B09
+                    IE: Unknown: DD050040961400
+          Cell 10 - Address: 00:27:0D:30:14:71
+                    Channel:1
+                    Frequency:2.412 GHz (Channel 1)
+                    Quality=34/70  Signal level=-76 dBm  
+                    Encryption key:on
+                    ESSID:"Personnels Univ-Lorraine"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 6 Mb/s; 9 Mb/s
+                              11 Mb/s; 12 Mb/s; 18 Mb/s
+                    Bit Rates:24 Mb/s; 36 Mb/s; 48 Mb/s; 54 Mb/s
+                    Mode:Master
+                    Extra:tsf=0000004b1e6af67b
+                    Extra: Last beacon: 848ms ago
+                    IE: Unknown: 0018506572736F6E6E656C7320556E69762D4C6F727261696E65
+                    IE: Unknown: 010882848B0C12961824
+                    IE: Unknown: 030101
+                    IE: Unknown: 0706465220010D14
+                    IE: Unknown: 2A0100
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : 802.1x
+                    IE: Unknown: 32043048606C
+                    IE: Unknown: 851E07008F000F00FF0359006D696D2D61703130000000000000000001000036
+                    IE: Unknown: 9606004096001100
+                    IE: Unknown: DD06004096010104
+                    IE: Unknown: DD050040960305
+                    IE: Unknown: DD050040960B09
+                    IE: Unknown: DD050040961400
+          Cell 11 - Address: 00:1C:B1:89:A0:C2
+                    Channel:11
+                    Frequency:2.462 GHz (Channel 11)
+                    Quality=21/70  Signal level=-89 dBm  
+                    Encryption key:off
+                    ESSID:"Universite de Lorraine"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 6 Mb/s; 9 Mb/s
+                              11 Mb/s; 12 Mb/s; 18 Mb/s
+                    Bit Rates:24 Mb/s; 36 Mb/s; 48 Mb/s; 54 Mb/s
+                    Mode:Master
+                    Extra:tsf=00000010f6fb8508
+                    Extra: Last beacon: 344ms ago
+                    IE: Unknown: 0016556E6976657273697465206465204C6F727261696E65
+                    IE: Unknown: 010882848B0C12961824
+                    IE: Unknown: 03010B
+                    IE: Unknown: 0706465220010D14
+                    IE: Unknown: 2A0100
+                    IE: Unknown: 32043048606C
+                    IE: Unknown: 851E04008F000F00FF035900746865617472652D617031000000000002000027
+                    IE: Unknown: 9606004096001100
+                    IE: Unknown: DD06004096010104
+                    IE: Unknown: DD050040960305
+                    IE: Unknown: DD050040960B09
+                    IE: Unknown: DD050040961400
+          Cell 12 - Address: 00:1C:B1:89:A0:C0
+                    Channel:11
+                    Frequency:2.462 GHz (Channel 11)
+                    Quality=17/70  Signal level=-93 dBm  
+                    Encryption key:on
+                    ESSID:"Personnels Univ-Lorraine"
+                    Bit Rates:1 Mb/s; 2 Mb/s; 5.5 Mb/s; 6 Mb/s; 9 Mb/s
+                              11 Mb/s; 12 Mb/s; 18 Mb/s
+                    Bit Rates:24 Mb/s; 36 Mb/s; 48 Mb/s; 54 Mb/s
+                    Mode:Master
+                    Extra:tsf=00000010f6fb2c43
+                    Extra: Last beacon: 340ms ago
+                    IE: Unknown: 0018506572736F6E6E656C7320556E69762D4C6F727261696E65
+                    IE: Unknown: 010882848B0C12961824
+                    IE: Unknown: 03010B
+                    IE: Unknown: 050400010000
+                    IE: Unknown: 0706465220010D14
+                    IE: Unknown: 2A0100
+                    IE: IEEE 802.11i/WPA2 Version 1
+                        Group Cipher : CCMP
+                        Pairwise Ciphers (1) : CCMP
+                        Authentication Suites (1) : 802.1x
+                    IE: Unknown: 32043048606C
+                    IE: Unknown: 851E04008F000F00FF035900746865617472652D617031000000000002000027
+                    IE: Unknown: 9606004096001100
+                    IE: Unknown: DD06004096010104
+                    IE: Unknown: DD050040960305
+                    IE: Unknown: DD050040960B09
+                    IE: Unknown: DD050040961401
+

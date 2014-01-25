@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/21/trunk/src/info/wifi
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/21/trunk/src/info/wifi/Main.java
+END
+Triangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/19/trunk/src/info/wifi/Triangle.java
+END
+Display.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/21/trunk/src/info/wifi/Display.java
+END
+Triangle2.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/20/trunk/src/info/wifi/Triangle2.java
+END
+WiFiScanner.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/src/info/wifi/WiFiScanner.java
+END
+Location.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/5/trunk/src/info/wifi/Location.java
+END
+AccessPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/18/trunk/src/info/wifi/AccessPoint.java
+END
+DataFiles.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/trunk/src/info/wifi/DataFiles.java
+END
+Map.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/21/trunk/src/info/wifi/Map.java
+END
+GPSMatcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/18/trunk/src/info/wifi/GPSMatcher.java
+END

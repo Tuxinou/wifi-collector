@@ -1,0 +1,101 @@
+///////////////////////////////////////////////////////////////////////////////
+/// Edge.java
+/// Author : Alper UNGOR
+/// Last Updated: Wed Apr 30 15:35
+///////////////////////////////////////////////////////////////////////////////
+
+import java.applet.Applet;
+
+public class Edge extends Applet {
+
+  // An edge consists of two directed edges that are kept in an array.
+  public Dedge dEdge[];
+
+  // mark is used in the Edge-Flip algorithm for identifying special edges 
+  boolean mark;
+
+  ///////////////////////////////////////////////////////////////////////
+  // Edge: is the constructor of Edge class. Given two directed edges
+  //       it constructs an edge which is kept in an array of size 2.
+  ///////////////////////////////////////////////////////////////////////
+  public  Edge(Dedge org, Dedge sym){
+    dEdge = new Dedge[2];
+    dEdge[0] = org;
+    dEdge[1] = sym;
+    mark = false;
+  }
+
+  ///////////////////////////////////////////////////////////////////////
+  // Edge: another constructor which takes two point indices as parameter
+  //       and constructs two directed edges using them and then stores
+  //       into an array of size 2 again.
+  ///////////////////////////////////////////////////////////////////////
+  public  Edge(int org, int sym){
+    dEdge = new Dedge[2];
+    dEdge[0] = new Dedge(org);
+    dEdge[1] = new Dedge(sym);
+    mark = false;
+  }
+
+  ///////////////////////////////////////////////////////////////////////
+  // mark: marks the edge
+  ///////////////////////////////////////////////////////////////////////
+  public void mark() {
+    mark = true;
+  }
+
+  ///////////////////////////////////////////////////////////////////////
+  // unmark: unmarks the edge
+  ///////////////////////////////////////////////////////////////////////
+  public void unmark() {
+    mark = false;
+  }
+
+  ///////////////////////////////////////////////////////////////////////
+  // isMarked: checks if the edge is marked.
+  ///////////////////////////////////////////////////////////////////////
+  public boolean isMarked() {
+    return mark;
+  }
+
+  ///////////////////////////////////////////////////////////////////////
+  // setOrg: sets the first directed edge of this edge 
+  ///////////////////////////////////////////////////////////////////////
+  public void setOrg(Dedge org) {
+    dEdge[0] = org;
+  }
+    
+  ///////////////////////////////////////////////////////////////////////
+  // setSym: sets the second directed edge(symmetric) of this edge.
+  ///////////////////////////////////////////////////////////////////////
+  public void setSym(Dedge sym) {
+    dEdge[1] = sym;
+  }
+
+  ///////////////////////////////////////////////////////////////////////
+  // isDiagonal: returns false if this edge is an edge of the convex hull.
+  //             returns true if this edge is an inner edge of the 
+  //             triangulation. An edge is convex hull edge if it has no
+  //             neighbour edge at either side (left or right). Line no
+  //             0 (zero) is a special one which tells "no neighbour edge".
+  ///////////////////////////////////////////////////////////////////////
+  public boolean isDiagonal() {
+    return ((dEdge[0].onext.lineNo) != 0 && (dEdge[1].onext.lineNo != 0));  
+  }
+
+  ///////////////////////////////////////////////////////////////////////
+  // print: prints the 2 directed edges of this edge on the standard output
+  ///////////////////////////////////////////////////////////////////////
+  public void print(){
+    dEdge[0].print();
+    dEdge[1].print();
+    System.out.println();
+  }
+
+    
+}
+
+
+
+
+
